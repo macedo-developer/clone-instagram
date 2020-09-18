@@ -123,3 +123,31 @@ body {
 .apps img:nth-child(2) {
   height: 4.5rem;
 }
+
+@media (max-width: 1024px) {
+  .instagram-wrapper {
+    width: 90%;
+  }
+}
+
+@media (max-width: 650px) {
+  body {
+    background: #fff;
+  }
+
+  .instagram-wrapper {
+    width: 90%;
+  }
+
+  .instagram-phone {
+    display: none;
+  }
+
+  .instagram-login-save {
+    width: 100%;
+  }
+
+  .group-container {
+    border: 0;
+  }
+}
