@@ -1,2 +1,5 @@
-# clone-instagram
-Clone primeira página do Instagram
+# Clone Instagram
+
+Clone da primeira página do instagram
+
+Bootcamp Digital Innovation One
