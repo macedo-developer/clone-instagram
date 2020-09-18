@@ -7,3 +7,11 @@
 </p>
 
 > Bootcamp Digital Innovation One
+
+## Author
+
+👤 **Renata Macedo**
+
+- Twitter: [@r_macedo77](https://twitter.com/r_macedo77)
+- Github: [@macedo-developer](https://github.com/macedo-developer)
+- LinkedIn: [@macedorenata](https://linkedin.com/in/macedorenata)
